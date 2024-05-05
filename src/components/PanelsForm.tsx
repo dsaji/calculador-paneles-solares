@@ -83,6 +83,3 @@ export default function PanelsForm() {
     </div>
   );
 }
-
-// const roofHeight = Number(values.roofHeight);
-// const roofWidth = Number(values.roofWidth);
